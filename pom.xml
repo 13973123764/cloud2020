@@ -8,6 +8,7 @@
     <artifactId>cloud4alibaba</artifactId>
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+    <description>22</description>
     <modules>
         <module>nacos-provider-8001</module>
         <module>nacos-consumer-9001</module>
